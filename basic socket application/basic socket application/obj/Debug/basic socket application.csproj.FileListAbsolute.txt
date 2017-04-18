@@ -1,0 +1,12 @@
+c:\users\paulo\documents\visual studio 2015\Projects\basic socket application\basic socket application\bin\Debug\basic socket application.exe.config
+c:\users\paulo\documents\visual studio 2015\Projects\basic socket application\basic socket application\bin\Debug\basic socket application.exe
+c:\users\paulo\documents\visual studio 2015\Projects\basic socket application\basic socket application\bin\Debug\basic socket application.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\basic socket application\basic socket application\obj\Debug\basic socket application.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2015\Projects\basic socket application\basic socket application\obj\Debug\basic socket application.exe
+c:\users\paulo\documents\visual studio 2015\Projects\basic socket application\basic socket application\obj\Debug\basic socket application.pdb
+c:\Users\Paulo\Documents\C# Projekty\basic socket application\basic socket application\bin\Debug\basic socket application.exe.config
+c:\Users\Paulo\Documents\C# Projekty\basic socket application\basic socket application\obj\Debug\basic socket application.exe
+c:\Users\Paulo\Documents\C# Projekty\basic socket application\basic socket application\obj\Debug\basic socket application.pdb
+C:\Users\Paulo\Documents\C# Projekty\basic socket application\basic socket application\bin\Debug\basic socket application.exe
+C:\Users\Paulo\Documents\C# Projekty\basic socket application\basic socket application\bin\Debug\basic socket application.pdb
+C:\Users\Paulo\Documents\C# Projekty\basic socket application\basic socket application\obj\Debug\basic socket application.csprojResolveAssemblyReference.cache

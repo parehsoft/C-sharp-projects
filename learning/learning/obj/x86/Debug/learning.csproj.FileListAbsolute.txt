@@ -1,0 +1,5 @@
+c:\users\paulo\documents\visual studio 2010\Projects\learning\learning\bin\Debug\learning.exe
+c:\users\paulo\documents\visual studio 2010\Projects\learning\learning\bin\Debug\learning.pdb
+c:\users\paulo\documents\visual studio 2010\Projects\learning\learning\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2010\Projects\learning\learning\obj\x86\Debug\learning.exe
+c:\users\paulo\documents\visual studio 2010\Projects\learning\learning\obj\x86\Debug\learning.pdb

@@ -1,0 +1,9 @@
+c:\users\paulo\documents\visual studio 2015\Projects\Defend the Motherland!\Defend the Motherland!\bin\Debug\Defend the Motherland!.exe.config
+c:\users\paulo\documents\visual studio 2015\Projects\Defend the Motherland!\Defend the Motherland!\bin\Debug\Defend the Motherland!.exe
+c:\users\paulo\documents\visual studio 2015\Projects\Defend the Motherland!\Defend the Motherland!\bin\Debug\Defend the Motherland!.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\Defend the Motherland!\Defend the Motherland!\obj\Debug\Defend the Motherland!.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2015\Projects\Defend the Motherland!\Defend the Motherland!\obj\Debug\Defend the Motherland!.exe
+c:\users\paulo\documents\visual studio 2015\Projects\Defend the Motherland!\Defend the Motherland!\obj\Debug\Defend the Motherland!.pdb
+C:\Users\Paulo\Documents\C# Projekty\Defend the Motherland!\Defend the Motherland!\bin\Debug\Defend the Motherland!.exe.config
+C:\Users\Paulo\Documents\C# Projekty\Defend the Motherland!\Defend the Motherland!\obj\Debug\Defend the Motherland!.exe
+C:\Users\Paulo\Documents\C# Projekty\Defend the Motherland!\Defend the Motherland!\obj\Debug\Defend the Motherland!.pdb

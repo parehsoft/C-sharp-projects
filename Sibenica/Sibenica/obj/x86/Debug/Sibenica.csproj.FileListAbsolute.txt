@@ -1,0 +1,5 @@
+c:\users\paulo\documents\visual studio 2010\Projects\Sibenica\Sibenica\bin\Debug\Sibenica.exe
+c:\users\paulo\documents\visual studio 2010\Projects\Sibenica\Sibenica\bin\Debug\Sibenica.pdb
+c:\users\paulo\documents\visual studio 2010\Projects\Sibenica\Sibenica\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2010\Projects\Sibenica\Sibenica\obj\x86\Debug\Sibenica.exe
+c:\users\paulo\documents\visual studio 2010\Projects\Sibenica\Sibenica\obj\x86\Debug\Sibenica.pdb

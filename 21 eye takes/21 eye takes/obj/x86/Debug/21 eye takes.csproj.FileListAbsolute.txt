@@ -1,0 +1,10 @@
+c:\users\paulo\documents\visual studio 2010\Projects\21 eye takes\21 eye takes\bin\Debug\21 eye takes.exe
+c:\users\paulo\documents\visual studio 2010\Projects\21 eye takes\21 eye takes\bin\Debug\21 eye takes.pdb
+c:\users\paulo\documents\visual studio 2010\Projects\21 eye takes\21 eye takes\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2010\Projects\21 eye takes\21 eye takes\obj\x86\Debug\21 eye takes.exe
+c:\users\paulo\documents\visual studio 2010\Projects\21 eye takes\21 eye takes\obj\x86\Debug\21 eye takes.pdb
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\21 eye takes\21 eye takes\obj\x86\Debug\21 eye takes.exe
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\21 eye takes\21 eye takes\obj\x86\Debug\21 eye takes.pdb
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\21 eye takes\21 eye takes\bin\Debug\21 eye takes.exe
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\21 eye takes\21 eye takes\bin\Debug\21 eye takes.pdb
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\21 eye takes\21 eye takes\obj\x86\Debug\21 eye takes.csprojResolveAssemblyReference.cache
