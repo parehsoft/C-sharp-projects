@@ -1,0 +1,19 @@
+﻿<Window x:Class="TCP_sockets.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TCP_sockets"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Closing="Window_Closing">
+    <Grid>
+        <TextBox x:Name="tb_messages" HorizontalAlignment="Left" Height="145" TextWrapping="Wrap" Text="Put the listening port, broadcasting port and server's IP address in, than hit start button above..." VerticalAlignment="Top" Width="507" AcceptsReturn="True" IsReadOnly="True" Margin="0,27,0,0"/>
+        <Button x:Name="btn_start" Content="---------- Start! ----------" HorizontalAlignment="Left" VerticalAlignment="Top" Width="507" Click="btn_start_Click" Margin="0,5,0,0"/>
+        <TextBox x:Name="tb_listeningPort" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="Listening port." VerticalAlignment="Top" Width="120" Margin="0,177,0,0"/>
+        <TextBox x:Name="tb_broadcastingPort" HorizontalAlignment="Left" Height="23" Margin="0,205,0,0" TextWrapping="Wrap" Text="Broadcasting port." VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_send" Content="SEND!!!!" HorizontalAlignment="Left" Margin="125,178,0,0" VerticalAlignment="Top" Width="382" Height="78" Click="btn_send_Click"/>
+        <TextBox x:Name="tb_serversIPAddress" HorizontalAlignment="Left" Height="23" Margin="0,233,0,0" TextWrapping="Wrap" Text="Server's IP address." VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="tb_textToSend" HorizontalAlignment="Left" Height="49" Margin="0,261,0,0" TextWrapping="Wrap" Text="There should be your text in here..." VerticalAlignment="Top" Width="507" AcceptsReturn="True"/>
+
+    </Grid>
+</Window>

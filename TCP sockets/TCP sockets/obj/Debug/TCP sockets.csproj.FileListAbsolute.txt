@@ -1,0 +1,14 @@
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\bin\Debug\TCP sockets.exe.config
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\bin\Debug\TCP sockets.exe
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\bin\Debug\TCP sockets.pdb
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\TCP sockets.csprojResolveAssemblyReference.cache
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\MainWindow.g.cs
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\App.g.cs
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\TCP sockets_MarkupCompile.cache
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\TCP sockets_MarkupCompile.lref
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\MainWindow.baml
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\TCP sockets.g.resources
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\TCP_sockets.Properties.Resources.resources
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\TCP sockets.csproj.GenerateResource.Cache
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\TCP sockets.exe
+c:\users\prehorci\documents\visual studio 2015\Projects\TCP sockets\TCP sockets\obj\Debug\TCP sockets.pdb
