@@ -1,0 +1,5 @@
+c:\users\paulo\documents\visual studio 2015\Projects\Console Process Watcher\Console Process Watcher\obj\Debug\Console Process Watcher.csprojResolveAssemblyReference.cache
+c:\users\paulo\documents\visual studio 2015\Projects\Console Process Watcher\Console Process Watcher\bin\Debug\Console Process Watcher.exe
+c:\users\paulo\documents\visual studio 2015\Projects\Console Process Watcher\Console Process Watcher\bin\Debug\Console Process Watcher.pdb
+c:\users\paulo\documents\visual studio 2015\Projects\Console Process Watcher\Console Process Watcher\obj\Debug\Console Process Watcher.exe
+c:\users\paulo\documents\visual studio 2015\Projects\Console Process Watcher\Console Process Watcher\obj\Debug\Console Process Watcher.pdb
