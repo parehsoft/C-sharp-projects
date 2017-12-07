@@ -20,12 +20,14 @@ namespace BRA_Lab_Project_Result_Shower
             }
 
             string pathToFolderWithTrxFiles = args[0];
+            if (pathToFolderWithTrxFiles[pathToFolderWithTrxFiles.Length - 1].Equals('\\') == true) { pathToFolderWithTrxFiles = pathToFolderWithTrxFiles.Substring(0, pathToFolderWithTrxFiles.Length - 1 ); }
+
             if (Directory.Exists(pathToFolderWithTrxFiles) != true)
             {
-                Console.WriteLine("Directory, which you have provided doesn't exist! Perhaps, remove the last \\ ?");
+                Console.WriteLine("Directory, which you have provided doesn't exist.");
                 return 1;
             }
-
+            
             string[] arrayOfFilePaths = Directory.GetFiles(pathToFolderWithTrxFiles, "*.trx");
             if (arrayOfFilePaths.Length == 0)
             {
@@ -35,7 +37,7 @@ namespace BRA_Lab_Project_Result_Shower
 
             /* If all is ok, writing to file will be estabilished. */
             string resultTextFilePath;
-            if (pathToFolderWithTrxFiles[pathToFolderWithTrxFiles.Length - 1].Equals("\\") == true) { resultTextFilePath = pathToFolderWithTrxFiles + "__Summary.txt"; }
+            if (pathToFolderWithTrxFiles[pathToFolderWithTrxFiles.Length - 1].Equals('\\') == true) { resultTextFilePath = pathToFolderWithTrxFiles + "__Summary.txt"; }
             else { resultTextFilePath = pathToFolderWithTrxFiles + "\\" + "__Summary.txt"; }
 
             StreamWriter sw;
@@ -58,7 +60,9 @@ namespace BRA_Lab_Project_Result_Shower
             string[] arrayOfFileNames = new string[arrayOfFilePaths.Length];
             for (int i = 0; i < arrayOfFilePaths.Length; i++)
             {
+                Console.WriteLine("File created on " + System.Globalization.CultureInfo.CurrentCulture.ToString() + " time: " + File.GetCreationTime(arrayOfFilePaths[i]));
                 Console.Write("{0} : ", arrayOfFileNames[i] = Path.GetFileName(arrayOfFilePaths[i])); // Write Name of the processed *.trx file.
+                     sw.WriteLine("File created on " + System.Globalization.CultureInfo.CurrentCulture.ToString() + " time: " + File.GetCreationTime(arrayOfFilePaths[i]));
                      sw.Write("{0} : ", arrayOfFileNames[i] = Path.GetFileName(arrayOfFilePaths[i]));
 
                 XmlDocument trxFile = new XmlDocument(); // Create xml document.
